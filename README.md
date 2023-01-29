@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rodgers-munene
-- 👀 I’m interested in being a great developer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on with anyone in any projects
-- 📫 How to reach me;you can send me a dm in instagram @underratedrodgers
+- 👀 I’m interested in being a softwaredeveloper
+- 🌱 I’m currently learning python, html, css, c, and javasript
+- 💞️ I’m looking to build up connections with great software developers and become better at my development skills
+- 📫 How to reach me;you can send me an email @ munenerodgers72@gmail.com
 
 <!---
 rodgers-munene/rodgers-munene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
