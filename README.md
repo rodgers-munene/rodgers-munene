@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodgers-munene
-- 👀 I’m interested in being a softwaredeveloper
-- 🌱 I’m currently learning python, html, css, c, and javasript
+- 👀 I’m interested in being a software developer
+- 🌱 Master in python, html, css, c, and javasript
 - 💞️ I’m looking to build up connections with great software developers and become better at my development skills
 - 📫 How to reach me;you can send me an email @ munenerodgers72@gmail.com
 
