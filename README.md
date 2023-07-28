@@ -1,5 +1,7 @@
-Welcome to my Repo, My name is Rodgers Munene, a developer and a student with a passion for code and learning complex stuff, and building great products with the knowledge I acquire in my path.  
+# Welcome to my Repo.
+My name is Rodgers Munene, a developer and a student with a passion for code and learning complex stuff, and building great products with the knowledge I acquire in my path.  
 
+# About Me
 - 👀 I’m currently learning frontend frameworks
 - I'm looking to collaborate on projects
 - Ask me about Networking, Android/Web Developments
