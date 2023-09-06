@@ -1,4 +1,4 @@
-# Welcome to my Repo.
+w# Welcome to my Repo.
 My name is Rodgers Munene, a developer and a student with a passion for code and learning complex stuff, and building great products with the knowledge I acquire in my path.  
 
 # About Me
@@ -8,10 +8,6 @@ My name is Rodgers Munene, a developer and a student with a passion for code and
 - 🌱 Master in Python, HTML, CSS, c, and javascript
 - 💞️ I’m looking to build up connections with great software developers and become better at my development skills
 - 📫 How to reach me: munenerodgers72@gmail.com
-
-# My Stack
-   **Frontend**
-   ![html](https://images.app.goo.gl/o2JjRcVSsb9D9eLz5)
 
 <!---
 rodgers-munene/rodgers-munene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
