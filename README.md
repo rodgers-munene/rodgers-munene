@@ -3,7 +3,7 @@
 - 🌱 **Currently diving into backend frameworks** to expand my development toolkit.
 - 🔗 **Open to collaborations** on impactful projects—let’s build something awesome together!
 - 💬 **Ask me about** Networking, Android, or Web Development—I’m all about sharing insights and tackling challenges.
-- 📫 How to reach me: [!(munenerodgers72@gmail.com)
+- 📫 How to reach me: (munenerodgers72@gmail.com)
 
 
 ## 🌐 Socials:
